@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Moussa
-- 👀 I’m interested in problem solving, and web development
+- 👀 I’m interested in problem solving, web development, and NLP.
 - 🌱 I’m currently learning Spring Boot, Hibernate, Golang, and Angular
 - 📫 you can reach me through my linkedIn account: https://www.linkedin.com/in/muhammad-moussa/
 
